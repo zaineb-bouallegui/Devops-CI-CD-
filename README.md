@@ -5,7 +5,7 @@ This project is composed of several steps:
 ✔️Managing and tracking my source code and version control using Git with the GitHub hosting service .
 
 ✔️Test backend services using Mockito .
-
+![Capbbture](https://github.com/zaineb-bouallegui/Devops-CI-CD-/assets/92609445/2680e9d0-6bc3-4c99-b566-450734f66851)
 ✔️Check the quality of the source code using sonarqube indicating the percentage of Coverage using Jacoco .
 
 ✔️Host artifacts using Nexus3 .
