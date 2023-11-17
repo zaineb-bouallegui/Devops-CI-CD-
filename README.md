@@ -1,8 +1,8 @@
 This project is composed of several steps:
 
-✔️Management of springboot application using #Maven .
+✔️Management of springboot application using Maven .
 
-✔️Managing and tracking my source code and version control using #Git with the GitHub hosting service .
+✔️Managing and tracking my source code and version control using Git with the GitHub hosting service .
 
 ✔️Test backend services using Mockito .
 
